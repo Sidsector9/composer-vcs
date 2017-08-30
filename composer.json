@@ -1,0 +1,13 @@
+{
+    "name": "sidsector9/composer-vcs",
+    "description": "Testing composer require through vcs",
+    "type": "composer package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sidsector9",
+            "email": "siddharth.thevaril@gmail.com"
+        }
+    ],
+    "require": {}
+}
